@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedalikaya" alt="muhammedalikaya" /></a> </p>
 
-- 🔭 I'm currently working on a web script with an admin panel. **Bureau crm**
+- 🔭 I'm currently working on an admin panel working hours recorder **Personal tracking**
 
 - 🌱 I'm currently learning mobile application. **Kotlin**
 
